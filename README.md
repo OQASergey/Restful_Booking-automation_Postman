@@ -29,7 +29,7 @@ Smoke-тестирование всех доступных через API фун
 
 </details>
 
-***[Ссылка на проект по ручному тестированию сервиса](https://github.com/OQASergey/Restful-Booker_Testing/tree/main#restful-booker_testing)***
+***[Ссылка на проект по ручному тестированию сервиса](https://github.com/OQASergey/Restful-Booker_Testing/#readme)***
 
 ***[Ссылка на документацию проекта](https://restful-booker.herokuapp.com/apidoc/)***
 

@@ -1,4 +1,4 @@
-### [Restful_Booking] - Автоматизация на Postman'е**
+### [Restful_Booking] - Автоматизация на Postman'е
 Smoke-тестирование всех доступных через API функций сервиса бронирования.
 
 ![title](https://github.com/OQASergey/Restful_Booking-automation_Postman/raw/main/pics/title.png)

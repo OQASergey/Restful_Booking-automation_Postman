@@ -6,6 +6,12 @@ Smoke-тестирование всех доступных через API фун
 
 ---
 
+***[Ссылка на проект по ручному тестированию сервиса](https://github.com/OQASergey/Restful-Booker_Testing/#readme)***
+
+***[Ссылка на документацию проекта](https://restful-booker.herokuapp.com/apidoc/)***
+
+***Ключ:*** https://api.postman.com/collections/30220849-662981ba-7e55-439a-b7cf-5a31ca21340e?access_key=PMAT-01HE57SG2M1CX8B0E0GXXSZ4D6
+
 <details>
   <summary>Визаулизация тестов</summary>
   
@@ -28,13 +34,6 @@ Smoke-тестирование всех доступных через API фун
 ------
 
 </details>
-
-***[Ссылка на проект по ручному тестированию сервиса](https://github.com/OQASergey/Restful-Booker_Testing/#readme)***
-
-***[Ссылка на документацию проекта](https://restful-booker.herokuapp.com/apidoc/)***
-
-***Ключ:*** https://api.postman.com/collections/30220849-662981ba-7e55-439a-b7cf-5a31ca21340e?access_key=PMAT-01HE57SG2M1CX8B0E0GXXSZ4D6
-
 
 ___
 
